@@ -1,0 +1,4 @@
+name: Mineplex Pocket
+main: mineplex\plugin\Main
+version: 1.0.0
+api: 1.0.0
